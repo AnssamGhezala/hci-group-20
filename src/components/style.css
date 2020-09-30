@@ -1,0 +1,33 @@
+.remark-sticky-table {
+    border-radius: 2px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+    height: 100%;
+    margin: 48px 0px;
+  }
+  
+  .remark-sticky-table-table {
+    border-collapse: collapse;
+    box-sizing: border-box;
+    width: 100%;
+  }
+  
+  .remark-sticky-table-th {
+    background-color: #f7f7f7;
+    font-weight: 600;
+    text-align: left;
+  }
+  
+  .remark-sticky-table-tbody:nth-child(odd) {
+    background-color: #fafafa;
+  }
+  
+  .remark-sticky-table-th,
+  .remark-sticky-table-td {
+    border-right: 1px solid #ddd;
+    text-align: center;
+    padding: 16px;
+  }
+
+  .navbar-item img {
+    max-height: 2.75rem;
+  }
